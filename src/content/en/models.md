@@ -15,7 +15,7 @@ Scientists worldwide are making great efforts to combat COVID-19, but many aspec
 ## <a id="seir"></a>Interactive SEIR Model
 In collaboration with [*Prof. Janez Žibert*](https://pacs.zf.uni-lj.si/janez-zibert/) from the Faculty of Medicine, University of Ljubljana, the SEIR model (Susceptible, Exposed, Infected, and Recovered) with submodels for modeling hospitalizations, intensive care, and deaths was developed. The parameters of the SEIR model are consistent with data on hospitalizations and the clinical picture of COVID-19 in Slovenia.
 
-***More detailed projections of the model are to be found [at this link](https://apps.lusy.fri.uni-lj.si/appsR/CoronaV2/).***
+***More detailed projections of the model are to be found [at this link](https://apps.lusy.fri.uni-lj.si/~janezz/reports/report_latest.html).***
 
 <a href="https://apps.lusy.fri.uni-lj.si/~janezz/zadnja-simulacija_V2.png" class="img-link">
 <img alt="SEIR model" src="https://apps.lusy.fri.uni-lj.si/~janezz/zadnja-simulacija_V2.png"></a>

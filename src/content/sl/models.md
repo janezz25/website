@@ -19,9 +19,9 @@ Svetovna znanost vlaga velike napore v boj z boleznijo COVID-19, a vendar mnogi 
 ## <a id="seir"></a>SEIR model
 V sodelovanju s [prof. Janezom Žibertom](https://pacs.zf.uni-lj.si/janez-zibert/) z Zdravstvene fakultete, Univerze v Ljubljani smo pripravili model SEIR (Susceptible, Exposed, Infected, and Recovered) s podmodeli za modeliranje bolnišničnih obravnav, obravnav na intenzivni negi in smrti, ki ima parametre usklajene s podatki o hospitalizacijah in klinično sliko COVID-19 v Sloveniji. 
 
-Vsakodnevne projekcije modela se izračunavajo ob 13.00 in 17.00. Bolj podroben prikaz projekcij je na [naslednji povezavi](https://apps.lusy.fri.uni-lj.si/appsR/CoronaV2/).
+Vsakodnevne projekcije modela se izračunavajo ob 13.00 in 17.00. [Končno poročilo](https://apps.lusy.fri.uni-lj.si/~janezz/reports/report_latest.html) je pripravljeno vsak dan ob 13:30. 
+Bolj podroben prikaz projekcij je na [naslednji povezavi](https://apps.lusy.fri.uni-lj.si/appsR/CoronaV2/).
 
-Dodatne projekcije so narejene še [na spletni strani](https://apps.lusy.fri.uni-lj.si/appsR/CoronaSimV2/), kjer se izvajajo simulacije na deterministični in stohastični verziji SEIR modela in se rezultati združujejo skupaj. 
 
 Pri interpretaciji rezultatov je potrebno upoštevati omejitve takšnih modelov. 
 
